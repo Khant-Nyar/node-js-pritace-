@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Airpods Wireless Bluetooth Headphones",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "iPhone 11 Pro 256GB Memory",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "price": 599.99
+  },
+  {
+    "id": "3",
+    "name": "Cannon EOS 80D DSLR Camera",
+    "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    "price": 929.99
+  },
+  {
+    "id": "4",
+    "name": "Sony Playstation 4 Pro White Version",
+    "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+    "price": 399.99
+  },
+  {
+    "id": "5",
+    "name": "Logitech G-Series Gaming Mouse",
+    "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    "price": 49.99
+  },
+  {
+    "id": "261383d8-6dc1-4699-80b6-b02ce4a88d7d",
+    "name": "New Product",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 1200
+  },
+  {
+    "id": "43d5bfa7-d859-46cc-acc8-85b0ce269494",
+    "name": "nexy product",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 190
+  },
+  {
+    "id": "dc8375ca-151a-42dd-8ec1-dec76b6a6c60",
+    "name": "test product",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 200
+  },
+  {
+    "id": "62fc996f-b7cb-4702-8235-786788c8b1c1",
+    "name": "500sgw g",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "price": 200
+  },
+  {
+    "id": "e15508fa-930c-4f83-8b5b-cff60af5dad8",
+    "name": "iPhone 13 Pro 256GB Memory",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "price": 599.99
+  },
+  {
+    "id": "e927d632-98e4-4bec-8c23-d9a48fe7312c",
+    "name": "Macbook Pro 256GB Memory",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "price": 599.99
+  }
+]

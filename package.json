@@ -1,0 +1,19 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "This Projetc is pritace to my skill",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Khant Si Thu Phyo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
